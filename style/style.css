@@ -608,11 +608,11 @@ a {
     }
 
     .cards_wrap {
-    	max-width: 360px;
+    	width: 405px;
     	height: 1840px;
     }
     .conclusion_wrap {
-    	width: 360px;
+    	width: 405px;
     }
 
     .conclusion_subtitle {
@@ -648,6 +648,18 @@ a {
     	font-size: 15px;
     	width: 320px;
     	margin-bottom: 145px;
+    }
+
+    .intro {
+    top: 190px;
+    }
+
+    .header {
+    	width: 405px;
+    }
+
+    .intro-subtitle {
+    	font-size: 20px;
     }
 
 
